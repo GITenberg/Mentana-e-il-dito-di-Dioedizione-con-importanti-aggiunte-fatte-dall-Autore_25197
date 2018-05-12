@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31135
     wikipedia: http://it.wikipedia.org/wiki/Ernesto_Pozzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25197#Mentana-e-il-dito-di-Dioedizione-con-importanti-aggiunte-fatte-dall-Autore
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2008-04-27'
 gutenberg_type: Text
