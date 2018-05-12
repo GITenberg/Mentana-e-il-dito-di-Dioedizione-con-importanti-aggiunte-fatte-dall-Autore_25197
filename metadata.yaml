@@ -1,0 +1,31 @@
+_repo: Mentana-e-il-dito-di-Dioedizione-con-importanti-aggiunte-fatte-dall-Autore_25197
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pozzi, Ernesto
+    alias: Pozzi, Ettore
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '31135'
+    url: http://www.gutenberg.org/2009/agents/31135
+    wikipedia: http://it.wikipedia.org/wiki/Ernesto_Pozzi
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2008-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25197'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Mentana, Battle of, Mentana, Italy, 1867'
+- !lcsh 'Papal States -- History -- 1815-1870'
+title: "Mentana e il dito di Dio\r\nEpisodi narrati dal superstite Ettore Pozzi -\
+  \ Seconda edizione, con importanti aggiunte fatte dall'Autore"
+url: http://www.gutenberg.org/ebooks/25197
